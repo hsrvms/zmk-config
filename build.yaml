@@ -7,9 +7,9 @@
 #
 # board: [ "nice_nano" ]
 # shield: [ "corne_left", "corne_right" ]
-include:
-    - board: nice_nano
-      shield: tester_pro_micro
+# include:
+#     - board: nice_nano
+#       shield: tester_pro_micro
 #   - board: bdn9_rev2
 #   - board: nice_nano
 #     shield: reviung41

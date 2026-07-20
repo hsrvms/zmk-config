@@ -1,0 +1,6 @@
+if SHIELD_HANDWIRED_12X4
+
+config ZMK_KEYBOARD_NAME
+    default "HW12x4"
+
+endif

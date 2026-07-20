@@ -1,2 +1,6 @@
-
-.zmk/
+build/
+.west/
+zmk/
+zephyr/
+miryoku_zmk/
+modules/

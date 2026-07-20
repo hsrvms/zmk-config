@@ -1,0 +1,9 @@
+// Copyright 2024 Manna Harbour
+// https://github.com/manna-harbour/miryoku
+
+// Miryoku keymap for handwired 12x4 ortholinear keyboard
+// Board: nice_nano (Pro Micro nRF52840)
+
+#include "miryoku/custom_config.h"
+#include "miryoku/mapping/48/planck.h"
+#include "miryoku/miryoku.dtsi"

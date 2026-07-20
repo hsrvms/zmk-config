@@ -1,0 +1,9 @@
+file_format: "1"
+id: handwired_12x4
+name: Handwired 12x4
+type: shield
+url: https://github.com/hsrvms/zmk-config
+features:
+  - keys
+requires:
+  - pro_micro

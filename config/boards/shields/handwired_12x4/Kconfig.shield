@@ -1,0 +1,2 @@
+config SHIELD_HANDWIRED_12X4
+    def_bool $(shields_list_contains,handwired_12x4)
